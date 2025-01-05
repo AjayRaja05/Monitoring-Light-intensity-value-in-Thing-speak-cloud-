@@ -151,6 +151,10 @@ void loop()
   delay(5000); 
 }
 # CIRCUIT DIAGRAM:
+[
+![399558043-ad3a62e7-046e-406e-b3f3-2af89ed767b0](https://github.com/user-attachments/assets/3a69d874-580b-4d74-a6be-b98b3b7c5106)
+](url)
+
 # OUTPUT:
 # RESULT:
 
